@@ -3,9 +3,10 @@ A simple todo app built with django
 <img width="1440" alt="todoApp" src="https://github.com/pradip2994/Django-todo/assets/124191442/1a9d61bf-f4fd-43ae-8d8b-903d0dc949a7">
 ### Setup
 To get this repository, run the following command inside your git enabled terminal
+
 ```bash
 $ git clone https://github.com/pradip2994/Django-todo.git
-
+```
 You will need django to be installed in you computer to run this app. Head over to https://www.djangoproject.com/download/ for the download guide
 
 Once you have downloaded django, go to the cloned repo directory and run the following command
