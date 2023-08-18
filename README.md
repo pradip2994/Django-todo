@@ -45,9 +45,10 @@ Cheers and Happy Coding :)
 3) Add name, click on “pipeline”
 4) In ‘ General Section’ add Description
 5) Tick ‘ Github project’ , add URL of github Repository.
-6) In Pipeline section, Select ‘ Pipeline Script’
-7) Write Script and Save
-8) Now click on “ Build” , see the Stage View.
+   NOTE: Github URL is different in images because befor i was using different Repository.  
+7) In Pipeline section, Select ‘ Pipeline Script’
+8) Write Script and Save
+9) Now click on “ Build” , see the Stage View.
 
 
 ![image](https://github.com/pradip2994/jenkins-CICD-main/assets/124191442/ece0a902-5958-442b-8abe-87dc77d10c19)
