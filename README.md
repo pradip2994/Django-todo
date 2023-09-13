@@ -45,7 +45,7 @@ Cheers and Happy Coding :)
 3) Add name, click on “pipeline”
 4) In ‘ General Section’ add Description
 5) Tick ‘ Github project’ , add URL of github Repository.
-   NOTE: Github URL is different in images because befor i was using different Repository.  
+   NOTE: Github URL is different in images because before i was using different Repository.  
 7) In Pipeline section, Select ‘ Pipeline Script’
 8) Write Script and Save
 9) Now click on “ Build” , see the Stage View.
